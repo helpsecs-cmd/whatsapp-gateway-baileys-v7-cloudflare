@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-gateway-baileys-v7-starter",
+  "version": "1.0.0",
+  "description": "Starter WhatsApp Gateway with Baileys v7 and Express",
+  "main": "server_starter.js",
+  "scripts": {
+    "start": "node server_starter.js"
+  },
+  "dependencies": {
+    "baileys": "^6.7.9",
+    "express": "^4.19.2",
+    "pino": "^9.0.0"
+  },
+  "license": "MIT"
+}
