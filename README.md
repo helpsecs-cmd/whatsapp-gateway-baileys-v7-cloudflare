@@ -1,3 +1,12 @@
+<!-- CTA-REALMAKEIA-INI -->
+> **⚡ Quer isto funcionando na sua máquina em 10 minutos?**
+> O código deste repositório está empacotado, testado e documentado no **Kit Gateway WhatsApp v7** — R$ 37, pagamento único, entrega imediata.
+>
+> ### **[→ Comprar Kit Gateway WhatsApp v7 por R$ 37](https://buy.stripe.com/00w14pbjb7d807mfScebu04)**
+>
+> [Dossiês técnicos e documentação](https://realmakeia.com/webhook-stripe-whatsapp-serverless/?utm_source=github&utm_medium=readme&utm_campaign=whatsapp-gateway-baileys-v7-cloudflare) · Dúvidas no [WhatsApp](https://wa.me/5547999835120)
+<!-- CTA-REALMAKEIA-FIM -->
+
 # ⚡ WhatsApp Gateway Self-Hosted (Baileys v7 + Express + Cloudflare Tunnel Auto-Sync)
 
 > 🛠️ **DOSSIÊ DE ENGENHARIA + DIAGNOSTICADOR INTERATIVO (Outubro/2026):**
