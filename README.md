@@ -1,10 +1,12 @@
 <!-- CTA-REALMAKEIA-INI -->
 > **⚡ Quer isto funcionando na sua máquina em 10 minutos?**
-> O código deste repositório está empacotado, testado e documentado no **Kit Gateway WhatsApp v7** — R$ 37, pagamento único, entrega imediata.
+> O código completo está empacotado, testado e com entrega imediata (`.ZIP` liberado na hora após Pix ou Cartão):
 >
-> ### **[→ Comprar Kit Gateway WhatsApp v7 por R$ 37](https://buy.stripe.com/00w14pbjb7d807mfScebu04)**
+> - 🔥 **[Porta de Entrada — Kit Estúdio Google Flow Veo 3.1: R$ 19,90](https://buy.stripe.com/cNi3cxgDv40W8DS5dyebu06)** *(Bíblia 37s + Blueprint JSON + Montador Python)*
+> - 📦 **[Comprar Kit Gateway WhatsApp v7: R$ 37](https://buy.stripe.com/00w14pbjb7d807mfScebu04)**
+> - 🚀 **[Levar Combo Full-Stack 2-em-1 (Vídeos + Flow + Gateway WhatsApp): R$ 47](https://buy.stripe.com/9B63cxevndBwcU80Xiebu05)**
 >
-> [Dossiês técnicos e documentação](https://realmakeia.com/webhook-stripe-whatsapp-serverless/?utm_source=github&utm_medium=readme&utm_campaign=whatsapp-gateway-baileys-v7-cloudflare) · Dúvidas no [WhatsApp](https://wa.me/5547999835120)
+> [Ver demonstração de 37s em realmakeia.com](https://realmakeia.com/?utm_source=github&utm_medium=readme&utm_campaign=whatsapp-gateway-baileys-v7-cloudflare) · [Dossiê Técnico](https://realmakeia.com/webhook-stripe-whatsapp-serverless/?utm_source=github&utm_medium=readme&utm_campaign=whatsapp-gateway-baileys-v7-cloudflare) · Dúvidas no [WhatsApp (Resposta em 3s)](https://wa.me/5547999835120?text=Ol%C3%A1%21%20Vim%20do%20GitHub%20e%20quero%20saber%20sobre%20os%20Deploy%20Kits.)
 <!-- CTA-REALMAKEIA-FIM -->
 
 # ⚡ WhatsApp Gateway Self-Hosted (Baileys v7 + Express + Cloudflare Tunnel Auto-Sync)
